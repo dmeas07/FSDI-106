@@ -53,6 +53,11 @@ function testArray2(){
     //except 7
     for (let i=0; i<21; i++) {
         //if "i" is not equal to 7 AND "i" is not 13
+
+        //AND = &&
+        //OR = ||
+        //NOT = !
+
         if (i !=7 && i !=13){
         console.log(i);
         }
